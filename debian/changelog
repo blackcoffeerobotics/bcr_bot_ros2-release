@@ -1,0 +1,15 @@
+ros-jazzy-bcr-bot (2.0.0-1bookworm) bookworm; urgency=high
+
+  * Update package for ROS 2 Jazzy support
+  * Update Nav2 configuration parameters to run Navigation2 on Jazzy
+
+ -- Gaurav Gupta <gaurav@blackcoffeerobotics.com>  Tue, 25 Nov 2025 18:30:00 -0000
+
+ros-jazzy-bcr-bot (1.0.2-1bookworm) bookworm; urgency=high
+
+  * Setting Gazebo resource paths through launch files
+  * Modified launch files to dynamically spawn bcr_bot
+
+ -- Gaurav Gupta <gaurav@blackcoffeerobotics.com>  Mon, 01 Apr 2024 18:30:00 -0000
+
+
