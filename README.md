@@ -1,3 +1,26 @@
+## bcr_bot (jazzy) - 2.0.0-1
+
+The packages in the `bcr_bot` repository were released into the `jazzy` distro by running `/home/devanshu/.local/bin/bloom-release --rosdistro jazzy --track jazzy bcr_bot --edit` on `Wed, 26 Nov 2025 09:40:50 -0000`
+
+The `bcr_bot` package was released.
+
+Version of package(s) in repository `bcr_bot`:
+
+- upstream repository: https://github.com/blackcoffeerobotics/bcr_bot.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## bcr_bot (humble) - 1.0.2-2
 
 The packages in the `bcr_bot` repository were released into the `humble` distro by running `/home/devanshu/.local/bin/bloom-release --rosdistro humble --track humble bcr_bot --edit` on `Tue, 02 Apr 2024 18:02:07 -0000`
