@@ -34,11 +34,11 @@ def generate_launch_description():
     return LaunchDescription([
 
         AppendEnvironmentVariable(
-        name='IGN_GAZEBO_RESOURCE_PATH',
+        name='GZ_SIM_RESOURCE_PATH',
         value=join(bcr_bot_path, "worlds")),
 
         AppendEnvironmentVariable(
-        name='IGN_GAZEBO_RESOURCE_PATH',
+        name='GZ_SIM_RESOURCE_PATH',
         value=join(bcr_bot_path, "models")),
 
         DeclareLaunchArgument("use_sim_time", default_value=use_sim_time),
